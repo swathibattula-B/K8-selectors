@@ -15,6 +15,7 @@ spec:
             operator: NotIn
             values:
             - us-east-1c
+            - us-east-1b
           - key: project
             operator: NotIn
             values:
